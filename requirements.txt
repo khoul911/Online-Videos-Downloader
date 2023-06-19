@@ -1,0 +1,10 @@
+tkinter
+os
+threading
+queue
+subprocess
+ctypes
+re
+youtube-dl
+customtkinter
+pytube
